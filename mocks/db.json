@@ -1,0 +1,27 @@
+{
+  "cadastro": [],
+  "impressoras": [
+    {
+      "id": "1",
+      "modelo": "HP LaserJet Enterprise Flow Mfp M880z",
+      "foto": "https://www.hp.com/us-en/shop/app/assets/images/product/A2W75A%23BGJ/center_facing.png?_=1598865034348&imwidth=430&imdensity=1",
+      "localização": "Sala 33",
+      "tipo": "Enterprise"
+    },
+    {
+      "id": "2",
+      "modelo": "Samsung Xpress M2020",
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_765472-MLA42765140323_072020-O.jpg",
+      "localização": "Sala 33",
+      "tipo": "Home"
+    },
+    {
+      "id": "3",
+      "modelo": "HP Laserjet PRO M1132",
+      "foto": "http://images.icecat.biz/img/norm/high/4604941-6156.jpg",
+      "localização": "Sala 33",
+      "tipo": "Office"      
+    }
+  ],
+  "imprimir": {}
+}
